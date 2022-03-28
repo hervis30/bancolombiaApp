@@ -3,4 +3,5 @@
     <string name="volver">Volver</string>
     <string name="Cerrar">Cerrar</string>
     <string name="Continuar">Continuar</string>
+    <string name="ingresarNumero">Ingrese pin</string>
 </resources>

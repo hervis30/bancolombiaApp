@@ -41,7 +41,12 @@ dependencies {
 
     //Libreria pinView
     implementation 'io.github.chaosleung:pinview:1.4.4'
-
     //Libreria para imagen circular
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+    //Libreria volley
+    implementation 'com.android.volley:volley:1.1.1'
+    //Libreria glide para imagen url
+    implementation 'com.github.bumptech.glide:glide:4.13.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
+
 }
